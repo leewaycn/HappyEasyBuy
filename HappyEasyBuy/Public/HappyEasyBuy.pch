@@ -1,0 +1,25 @@
+//
+//  HappyEasyBuy.pch
+//  HappyEasyBuy
+//
+//  Created by Dwang on 2017/11/14.
+//  Copyright © 2017年 happyEsayBuy. All rights reserved.
+//
+
+#ifndef HappyEasyBuy_pch
+#define HappyEasyBuy_pch
+
+#ifdef __OBJC__
+
+/** 公用头文件 */
+#import "Header.h"
+
+/** 公用输出 */
+#import "OUTPUT.h"
+
+/** 请求地址集合 */
+#import "RequestUrl.h"
+
+#endif
+
+#endif /* HappyEasyBuy_pch */
